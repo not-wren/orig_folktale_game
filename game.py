@@ -1,4 +1,3 @@
-from telnetlib import SUPPRESS_LOCAL_ECHO
 room = "starting"
 treasure = 0
 game_running = True
